@@ -39,7 +39,7 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 
 ## Complementos de commits 💻
 
-- **Rodapé:** informação sobre o revisor e número do card no Trello ou Jira. Exemplo: Reviewed-by: Elisandro Mello Refs #133
+- **Rodapé:** informação sobre o revisor e número do card no Click-up. Exemplo: Reviewed-by: Elisandro Mello Refs #133
 - **Corpo:** descrições mais precisas do que está contido no commit, apresentando impactos e os motivos pelos quais foram empregadas as alterações no código, como também instruções essenciais para intervenções futuras. Exemplo: see the issue for details on typos fixed.
 - **Descrições:** uma descrição sucinta da mudança. Exemplo: correct minor typos in code
 
